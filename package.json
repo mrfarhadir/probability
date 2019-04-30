@@ -1,6 +1,6 @@
 {
   "name": "probabilityjs",
-  "version": "0.0.01",
+  "version": "0.0.011",
   "description": "probablity methods",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfarhadir/probablity.git"
+    "url": "git+https://github.com/mrfarhadir/probability.git"
   },
   "keywords": [
     "probablity",
@@ -18,9 +18,9 @@
   "author": "Farhad Mehryari <info@mrfarhad.ir>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrfarhadir/probablity/issues"
+    "url": "https://github.com/mrfarhadir/probability/issues"
   },
-  "homepage": "https://github.com/mrfarhadir/probablity#readme",
+  "homepage": "https://github.com/mrfarhadir/probability#readme",
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-rename": "^1.4.0",

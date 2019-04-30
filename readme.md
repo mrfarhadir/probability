@@ -1,6 +1,6 @@
 # Probability
 
-git### Installation:
+### Installation:
 ```
 npm install probabilityjs --save
 ```
