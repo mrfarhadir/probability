@@ -1,0 +1,33 @@
+{
+  "name": "probabilityjs",
+  "version": "0.0.0",
+  "description": "probablity methods",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && tsc -p tsconfig.browser.json && gulp copy",
+    "build:minify": "npm run build && gulp minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrfarhad/probablity.git"
+  },
+  "keywords": [
+    "probablity",
+    "math"
+  ],
+  "author": "Farhad Mehryari <info@mrfarhad.ir>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrfarhad/probablity/issues"
+  },
+  "homepage": "https://github.com/mrfarhad/probablity#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "jasmine": "^3.3.1",
+    "jasmine-console-reporter": "^3.1.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "typescript": "^3.3.3333"
+  }
+}
