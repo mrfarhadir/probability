@@ -1,6 +1,6 @@
 {
   "name": "probabilityjs",
-  "version": "0.0.0",
+  "version": "0.0.01",
   "description": "probablity methods",
   "main": "index.js",
   "scripts": {
